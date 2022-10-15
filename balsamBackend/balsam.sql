@@ -21,7 +21,7 @@ SET time_zone = "+00:00";
 -- Database: `balsam`
 --
 
--- --------------------------------------------------------
+-- --------------------------------------------------------  
 
 --
 -- Table structure for table `appointments`
@@ -168,7 +168,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `phone`, `password`, `address`, `createdAt`, `updatedAt`) VALUES
-(1, '.خسرانه بي كلوووووووووو', 'user1@gmail.com', '123456789', '$2a$10$lk.qdewTBQ0jKRn6WpjdReSFO9if6uHn6ekoZTG.V9.JB6wTkWoNm', 'kalakila', '2022-10-14 17:08:02', '2022-10-14 17:08:02'),
+(1, 'ahmed adil', 'user1@gmail.com', '123456789', '$2a$10$lk.qdewTBQ0jKRn6WpjdReSFO9if6uHn6ekoZTG.V9.JB6wTkWoNm', 'kalakila', '2022-10-14 17:08:02', '2022-10-14 17:08:02'),
 (2, '&lt;script>alert(\'hello world\')&lt;/script>', 'user2@gmail.com', '123456789', '$2a$10$4nT/wNeSwY0uwZ8mtcbyKePdEZwomqPpmOvSe5vee9xuavpCFxv/.', 'kalakila', '2022-10-15 01:31:56', '2022-10-15 01:31:56');
 
 --
